@@ -1,6 +1,7 @@
 # reactJS_.NETCore_fullstack_app
 * A fullstack app contains CRUD operations.
-*  Backend: SQL Server, Azure server &amp; web deployment.
+* Used MVC Architecture
+*  Backend: C# .NET core, SQL Server, Azure server &amp; web deployment. 
 *  Frontend: ReactJS
 *  Handles settlement list. Like todo list.
 * Adding/Updating/Deleting Settlements
